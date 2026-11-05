@@ -1,0 +1,11 @@
+order_id,customer_id,product,quantity,unit_price
+101,C001,Laptop,1,50000
+102,C002,Mobile,2,15000
+103,C003,Headphones,3,2000
+104,C004,Keyboard,2,1500
+105,C005,Monitor,1,12000
+106,C006,Mouse,4,500
+107,C007,Tablet,1,20000
+108,C008,Smartwatch,2,5000
+109,C009,Speaker,2,3000
+110,C010,Camera,1,25000
